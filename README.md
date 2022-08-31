@@ -27,7 +27,7 @@ Features
 Preview
 -------
 
-![SCREENSHOT](https://raw.githubusercontent.com/trhacknon/Gel4y-Mini-Shell-Backdoor/1.x.x/preview.png)
+![SCREENSHOT](https://raw.githubusercontent.com/trhacknon/Gel4y-Mini-Shell-Backdoor/blob/1.x.x/preview.png)
 
 Using the well-known css framework, Bootstrap version 4, so that the resulting display will adjust to your platform or more often it is called a responsive display.
 
